@@ -1,0 +1,24 @@
+h2{text-align: center; 
+   color:rgba(0, 0, 0, 0.911)
+}
+h1{text-align: center;
+    border-style: solid;
+    color: blueviolet;
+}
+h2{font-size: 30px;
+}
+#img1{width: 37%;
+margin-left: 30%;
+border-style: solid;
+border-color: black;
+border-width: 10px;}
+
+h3{color: antiquewhite;
+font-size: 27px;}
+body{background-color: rgb(159, 196, 180);}
+
+#img2{width: 35%;
+margin-left:30% ;
+border-style: solid;
+border-color: midnightblue;
+border-width: 10px;}
