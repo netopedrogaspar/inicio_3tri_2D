@@ -1,6 +1,6 @@
 
 h2{text-align: center; 
-   color:rgb(170, 10, 10)
+   color:hsl(192, 72%, 33%)
 }
 h1{text-align: center;
     border-style: solid;
@@ -21,6 +21,6 @@ body{background-color: rgb(159, 196, 180);}
 #img2{width: 35%;
 margin-left:30% ;
 border-style: solid;
-border-color: rgba(247, 212, 18, 0.733);
+border-color: rgb(64, 70, 44);
 border-width: 10px;}
 
