@@ -15,9 +15,9 @@ border-color: rgba(23, 138, 128, 0.822);
 border-width: 10px;}
 
 h3{color: antiquewhite;
-font-size: 27px;}
-body{background-color: rgb(185, 0, 0);}
-order-style: solid;
+font-size: 27px;
+border-style: solid;
+border-color: rgb(15, 73, 199);
 border-width: 10px;}
 
 #img2{width: 35%;
