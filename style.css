@@ -31,3 +31,9 @@ h4{color:firebrick;
     border-style: solid;
     border-color: rgb(87, 177, 14);
     border-width: 10px;}
+
+    h2{color:rgb(252, 227, 0);
+        font-size: 27px;
+        border-style: solid;
+        border-color: rgb(179, 221, 25);
+        border-width: 10px;}
